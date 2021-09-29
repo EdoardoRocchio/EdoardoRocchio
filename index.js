@@ -1,6 +1,6 @@
 
 function myFunction() {
-    alert("Andreatta è alla mia sinistra")
+    alert("TUTTURUUU!!!")
     console.log("Funziona!")
  }
       
